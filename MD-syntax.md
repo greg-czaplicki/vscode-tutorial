@@ -20,13 +20,6 @@ These can be nested to create a multi-level outline
 
 ## Ordered Lists
 
-These cannot be nested in most markdown rendering engines
-
-```md
-1. first
-1. second
-1. third
-```
 > 1. first
 > 1. second
 > 1. third
